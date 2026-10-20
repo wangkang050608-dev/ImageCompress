@@ -1,3 +1,5 @@
+# ImageCompress
+
 Compress images online with a simple browser-based workflow. ImageCompress helps reduce the file size of JPG, JPEG, PNG, GIF, WebP, and HEIC images while keeping the result suitable for websites, blogs, product pages, email attachments, and everyday sharing.
 
 No software installation is required.
